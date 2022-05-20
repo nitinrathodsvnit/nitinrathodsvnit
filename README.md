@@ -3,7 +3,7 @@
 <!-- End of Intro -->
 
 <!-- Views -->
-<a href="https://github.com/Aniumbott/"><img align="left" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
+<a href="https://github.com/Aniumbott/"><img align="left" src="https://komarev.com/ghpvc/?username=nitinrathodsvnit&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
 <!-- End of Views -->
 <!-- End of Views -->
   
