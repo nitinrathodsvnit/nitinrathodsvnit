@@ -3,7 +3,7 @@
 <!-- End of Intro -->
 
 <!-- Views -->
-<a href="https://github.com/Aniumbott/"><img align="left" src="https://komarev.com/ghpvc/?username=nitinrathodsvnit&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
+<a href="https://codechef.com/profile/nitin23rathod" target="_blank"><img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codeforces/nitin23rathod&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codechef/nitin23rathod" /></a>
 <!-- End of Views -->
 <!-- End of Views -->
   
