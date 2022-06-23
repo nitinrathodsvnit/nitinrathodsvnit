@@ -1,18 +1,6 @@
 <!-- Intro -->
 <h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Nitin Rathod 😇</h1>
 <!-- End of Intro -->
-
-<!-- Views -->
-<a href="https://codechef.com/profile/nitin23rathod" target="_blank"><img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codeforces/nitin23rathod&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codechef/nitin23rathod" /></a>
-<!-- End of Views -->
-<!-- End of Views -->
-  
-<!-- Live Rating -->
-<p align=right>
-<a href="https://codeforces.com/profile/nitin23rathod" target="_blank"><img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/nitin23rathod&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codeforces/nitin23rathod" /></a>
-</p>
-<!-- Live Rating -->
-
 <br><br>
 
 <!-- Hero -->
@@ -20,11 +8,20 @@
 
 <!-- About -->
 ---
-- 🎓 I am an Undergrad at SVNIT
-- 🌱 I'm a **MERN Stack Developper** and also good at **CP**
-- 🤝 I’m looking to collaborate on **opensource projects**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🚀 I’m currently doing **Competitive Programming.** 
+
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
+
+- 👨‍💻 All of my Activity are available at **[My Portfolio](https://nitinrathodsvnit.github.io/portfollie/)**
+
+- 📫 How to reach me **nitinrathod2300@gmail.com**
+
 - 💬 Ask me about **Problem-Solving and Web-Dev**
-- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves.** -Saitama
+
+- ⚡ Fun fact **I play games**
+
 <!-- End of About -->
   
 <br>
