@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my Activity are available at **[My Portfolio](https://nitinrathodsvnit.github.io/portfoilio/)**
+- 👨‍💻 All of my Activity are available at **[My Portfolio](https://nitinrathodsvnit.github.io/My-Portfolio/)**
 
 - 📫 How to reach me **nitinrathod2300@gmail.com**
 
