@@ -41,7 +41,7 @@
 <!-- Platforms -->
 <h3 align="left">Platforms :</h3>
 <p align="left">
-  <a href="https://www.codechef.com/users/aniketrana" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/nitinrathod" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/nitin23rathod" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/nitin23rathod/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
